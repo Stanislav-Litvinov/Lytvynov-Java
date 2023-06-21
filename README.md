@@ -1,4 +1,4 @@
-### Stanislav Lytvynov
+### Stanislav Lytvynov, Java
 
 **Задания, необходимо написать код:**
 
